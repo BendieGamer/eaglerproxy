@@ -8,7 +8,7 @@ export const config = {
     adapter: {
         name: "EaglerProxy",
         bindHost: "0.0.0.0",
-        bindPort: 8080,
+        bindPort: 5000,
         maxConcurrentClients: 20,
         skinUrlWhitelist: undefined,
         motd: true
@@ -24,8 +24,8 @@ export const config = {
             originBlacklist: null,
         },
         server: {
-            host: "ubgsmp.aternos.me",
-            port: 28232,
+            host: "play.ilovefraud.xyz",
+            port: 50013,
         },
         tls: undefined,
     },
