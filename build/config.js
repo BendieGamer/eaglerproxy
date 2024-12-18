@@ -24,7 +24,7 @@ export const config = {
             originBlacklist: null,
         },
         server: {
-            host: "play.ilovefraud.xyz",
+            host: "eaglerproxy-y3y5.onrender.com",
             port: 50013,
         },
         tls: undefined,
